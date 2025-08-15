@@ -2,7 +2,7 @@ Customer Demographics and Purchase Behavior Analysis from GUVI
 
 Dataset source: https://docs.google.com/spreadsheets/d/1hxyKvp24qhmwTvD0ZH08qNp-Pr8ICuHpqesInowr5Lo/edit?usp=sharing
 
-Project Presentation Pdf File:
+Project Presentation Pdf File: https://github.com/Karthik54321eng/Customer-Demographics-and-Purchase-Behavior-Analysis/blob/main/Customer%20Demographics%20and%20Purchase%20Behavior%20Analysis.pdf
 
 Video Presentation:
 
