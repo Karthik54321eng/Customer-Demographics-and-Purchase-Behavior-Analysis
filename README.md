@@ -6,7 +6,7 @@ Project Presentation Pdf File: https://github.com/Karthik54321eng/Customer-Demog
 
 Video Presentation:
 
-============================================================================
+===========================================================================
 
 Excel Skills Applied:
 
@@ -22,7 +22,7 @@ Excel Skills Applied:
 
 6)Trend Analysis and Forecasting in Excel.
 
-======================================================================================
+===========================================================================
 
 A)Objective:
 
@@ -32,7 +32,7 @@ A)Objective:
 
 3)To analyze and visualize customer demographics, product categories and purchase patterns.
 
-======================================================================================
+===========================================================================
 
 B)Dataset Overview:
 
@@ -56,7 +56,7 @@ Purchase Date: The date of the purchase, in YYYY-MM-DD format.
 
 Amount: The total amount spent by the customer on a specific purchase, in currency
 
-======================================================================================
+===========================================================================
 
 C)Key Insights:
 
@@ -102,7 +102,7 @@ C)Key Insights:
 
 5.3)Slight Dip in Toys Purchases.
 
-======================================================================================
+===========================================================================
 
 D)Key Recommendations:
 
@@ -126,10 +126,13 @@ D)Key Recommendations:
 
 3.2)For Parents & Gift Givers ; Promote festive or birthday discounts and emphasize educational or developmental toys for kids.
 
-======================================================================================
+===========================================================================
 
 Conclusion:
 
 Analyzed customer demographics and purchase behaviour to optimize marketing and inventory strategies. 
 Applied Excel for data cleaning, segmentation, forecasting, and visualization using functions like VLOOKUP, Pivot Tables, and trend analysis. 
 Enabled targeted campaigns and resource allocation, boosting regional revenue by 9% and improving product bundling efficiency by 21%
+
+===========================================================================
+
